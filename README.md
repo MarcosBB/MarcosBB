@@ -17,4 +17,5 @@
     - Figma
   - Other
     - C/C++
+    - Java
     - Unreal Engine
