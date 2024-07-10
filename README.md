@@ -11,10 +11,9 @@
     - Django
     - Django REST Framework
   - Frontend
-    - HTML, CSS, Javascript
+    - HTML, CSS, Javascript, React
   - UI
     - Figma
   - Other
     - C/C++
     - Java
-    - Unreal Engine
