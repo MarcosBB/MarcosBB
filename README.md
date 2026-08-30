@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:084043,50:1C7B81,100:359CA1&height=200&section=header&text=Marcos%20Beraldo%20Barros&fontSize=42&fontColor=F8FFFF&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20React&descSize=16&descAlignY=56" width="100%" alt=""/>
+<img src="./assets/header.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=359CA1&center=true&vCenter=true&width=520&lines=APIs+em+Django+REST+Framework;Interfaces+em+React;Do+banco+ao+deploy" alt=""/>
+  <img src="./assets/typing.svg" alt=""/>
 </div>
 
 <br/>
@@ -87,4 +87,4 @@
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcosBB&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=359CA1&text_color=9FA6AD" alt="Linguagens mais usadas"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:359CA1,50:1C7B81,100:084043&height=120&section=footer" width="100%" alt=""/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
